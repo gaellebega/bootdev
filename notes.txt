@@ -1,0 +1,47 @@
+the let and const keywords are block scoped to mean they cant be accessible out of the scoped
+but the const and let can
+
+indexing refers to how you can access the individual character in a string
+it is always start from 0;
+
+java and javascript
+
+java is statically typed int age=5;
+and also is used mostly for the sever side applications
+android apps and alsrge enterprise sytems
+
+javascript
+dynalmically typed to mean we dont have to specify the type of variable before we assign it to the value
+let name="uwimana";
+it is used by for both back ened and front ened devs the reason javascript was named like that was bcz it was created after java and their creators wanted to get a piece of that marketing value.
+
+
+emojis take 2 UTF-16
+
+PascalCase 
+SCREAMING_SNAKE_CASE
+
+common truthy  values
+true
+number which are not 0
+an empty array
+an empty object
+an empty functions 
+
+falsy values
+false
+0
+""
+null
+undefined
+NaN
+
+Nullish coalescing ??
+
+functions hoisting 
+means moving the declaration to the top oof the scope before code runs
+but on the functions it will work pretty well
+this can not work on the const or tryan access the variables without the initialisation you will get error
+
+closure this means the function defined inside another function
+
